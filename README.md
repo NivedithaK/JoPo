@@ -41,7 +41,7 @@ To view the unimplemented GUI:
 <p align="center"><img src="https://i.imgur.com/vy8IqA7.png" alt="Sign up"
 	title="Sign up" width="500" height="300" /></p> 
 	
-<p align="center"><img src="https://i.imgur.com/OZdmoTy.png" alt="Choose interview type"
+<p align="center"><img src="https://i.imgur.com/Uuhs51H.png" alt="Choose interview type"
 	title="Choose interview type" width="500" height="300" /></p> 
 	
 <p align="center"><img src="https://i.imgur.com/OXbXUeF.png" alt="Menu"
