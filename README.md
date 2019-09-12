@@ -1,6 +1,6 @@
 # JoPo (Job Portal)
 
-A job market program coded with Javathat facilitates exchanges between individual 
+A job market program coded with Java that facilitates exchanges between individual 
 job applicants, company HR coordinators, and company interviewers. 
 
 ## Navigation
@@ -38,19 +38,19 @@ To view the unimplemented GUI:
 
 ## <a name="screenshots"></a>Screenshots
 	
-<p align="center"><img src="https://imgur.com/OZdmoTy" alt="Sign up"
+<p align="center"><img src="https://i.imgur.com/vy8IqA7.png" alt="Sign up"
 	title="Sign up" width="500" height="300" /></p> 
 	
-<p align="center"><img src="https://imgur.com/OXbXUeF" alt="Choose interview type"
+<p align="center"><img src="https://i.imgur.com/OZdmoTy.png" alt="Choose interview type"
 	title="Choose interview type" width="500" height="300" /></p> 
 	
-<p align="center"><img src="https://imgur.com/v3RPFIe" alt="Menu"
+<p align="center"><img src="https://i.imgur.com/OXbXUeF.png" alt="Menu"
 	title="Menu" width="500" height="300" /></p> 
   	
-<p align="center"><img src="https://imgur.com/uzRuJgi" alt="Add job"
+<p align="center"><img src="https://i.imgur.com/v3RPFIe.png" alt="Add job"
 	title="Add job" width="500" height="300" /></p> 
   
-  <p align="center"><img src="https://imgur.com/vy8IqA7" alt="Interview type"
+  <p align="center"><img src="https://i.imgur.com/uzRuJgi.png" alt="Interview type"
 	title="Interview type" width="500" height="300" /></p> 
 	
 [Back to top](#top)
@@ -89,8 +89,6 @@ To view the unimplemented GUI:
 
 ## <a name="structure"></a>Repository Structure
 
-REPOSITORY STRUCTURE
-
 User package: Contains all users that inherit the abstract class User. Most methods in 
 these classes interact with the user.
 - Applicant
@@ -124,92 +122,92 @@ the job hiring process, from HRCoord account creation to notifying an Applicant
 that they have been hired. 
 
 1) Creating HRCoord account:
->y
->Ben
->n
->BK
->123
+\>y
+\>Ben
+\>n
+\>BK
+\>123
 
 2) Creating new JobPosting:
->Online
->q
->1
->a
->Chef
->CV
->q
->10
->food
->1
->1
->2
->1
->1
->-1
+\>Online
+\>q
+\>1
+\>a
+\>Chef
+\>CV
+\>q
+\>10
+\>food
+\>1
+\>1
+\>2
+\>1
+\>1
+\>-1
 
 3) Generate Interviewer account:
->8 (please record the UserID and Password for later)
+\>8 (please record the UserID and Password for later)
 
 4) Logout:
->9
->no
+\>9
+\>no
 
 5) Creating Applicant account:
->y
->Ben
->y
->123
->CV.txt (*preferably upload real paths here)
->CL.txt*
+\>y
+\>Ben
+\>y
+\>123
+\>CV.txt (*preferably upload real paths here)
+\>CL.txt*
 
 6) Applying to a JobPosting:
->1
->a
->2
->100
->1
->CV.txt*
->4
+\>1
+\>a
+\>2
+\>100
+\>1
+\>CV.txt
+\>4
 
 7) Logout:
->7
->no
+\>7
+\>no
 
 8) Log back into HRCoord and start Interviews:
->n
->100000
->123
->4
->100
->9
->no
+\>n
+\>100000
+\>123
+\>4
+\>100
+\>9
+\>no
 
 9) First time logging in as an Interviewer:
->n
->(input the UserID and Password from "Generate Interviewer account")
->Ben
->(input Password again)
->123
+\>n
+\>(input the UserID and Password from "Generate Interviewer account")
+\>Ben
+\>(input Password again)
+\>123
 
 10) Interview and recommend/hire an Applicant:
->1
->1
->-1
->2
->y
->100002
->100
->-1
+\>1
+\>1
+\>-1
+\>2
+\>y
+\>100002
+\>100
+\>-1
 
 11) Logout:
->5
->no
+\>5
+\>no
 
 12) Log back into Applicant and see application status:
->n
->100002
->123
->4
+\>n
+\>100002
+\>123
+\>4
 
 Congrats! The applicant has been hired for that job. To save your progress at any
 time, enter the option for "log out" and then type "true" to quit the program and 
