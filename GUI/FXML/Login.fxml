@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+    <children>
+        <Text layoutX="172.0" layoutY="151.0" strokeType="OUTSIDE" strokeWidth="0.0" text="UserID">
+            <font>
+                <Font name="Georgia" size="15.0" />
+            </font>
+        </Text>
+        <TextField fx:id="userIdInput" layoutX="269.0" layoutY="135.0" />
+        <Text layoutX="164.0" layoutY="235.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Password">
+            <font>
+                <Font name="Georgia" size="15.0" />
+            </font>
+        </Text>
+        <Button layoutX="309.0" layoutY="286.0" mnemonicParsing="false" onAction="#loginButton" prefHeight="27.0" prefWidth="65.0" text="Login" />
+      <Button layoutX="194.0" layoutY="286.0" mnemonicParsing="false" onAction="#signUpButton" text="Sign up" />
+      <PasswordField fx:id="passwordInput" layoutX="269.0" layoutY="216.0" />
+    </children>
+</AnchorPane>

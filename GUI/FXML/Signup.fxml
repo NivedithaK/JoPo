@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<?import javafx.collections.FXCollections?>
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Text layoutX="241.0" layoutY="80.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Create Account" wrappingWidth="131.56396484375" />
+      <Text layoutX="146.0" layoutY="137.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Name" />
+      <Text layoutX="146.0" layoutY="201.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Password" />
+      <TextField fx:id="signUpName" layoutX="300.0" layoutY="119.0" />
+      <Text layoutX="146.0" layoutY="257.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Role" />
+      <TextField fx:id="signUpPassword" layoutX="300.0" layoutY="173.0" />
+      <Button layoutX="245.0" layoutY="294.0" mnemonicParsing="false" onAction="#signUpSubmit" text="Submit" />
+      <ChoiceBox fx:id="typeSelection" layoutX="298.0" layoutY="239.0" prefHeight="27.0" prefWidth="167.0">
+
+       <items>
+           <FXCollections fx:factory="observableArrayList">
+               <String fx:value="Applicant" />
+               <String fx:value="HR Coordinator/ Interviewer" />
+           </FXCollections>
+       </items>
+
+      </ChoiceBox>
+
+   </children>
+</AnchorPane>

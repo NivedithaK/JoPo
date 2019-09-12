@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.collections.*?>
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.collections.FXCollections?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Text layoutX="131.0" layoutY="157.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Company:" />
+       <ChoiceBox fx:id="roleSelect" layoutX="353.0" layoutY="258.0" prefHeight="27.0" prefWidth="124.0">
+
+           <items>
+               <FXCollections fx:factory="observableArrayList">
+                   <String fx:value="HR Coordinator" />
+                   <String fx:value="Interviewer" />
+               </FXCollections>
+           </items>
+
+       </ChoiceBox>
+      <Text layoutX="131.0" layoutY="223.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Can't Find your Company? " />
+      <TextField fx:id="addCompany" layoutX="353.0" layoutY="205.0" prefHeight="27.0" prefWidth="124.0" promptText="Add company..." />
+      <Text layoutX="132.0" layoutY="276.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Role:" wrappingWidth="58.03662109375" />
+      <Text layoutX="256.0" layoutY="98.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Set-Up Profile" />
+      <Button layoutX="269.0" layoutY="306.0" mnemonicParsing="false" onAction="#setUpHRSubmit" text="Submit" />
+      <ChoiceBox fx:id="companySelect" layoutX="353.0" layoutY="148.0" prefHeight="27.0" prefWidth="124.0" />
+   </children>
+</AnchorPane>

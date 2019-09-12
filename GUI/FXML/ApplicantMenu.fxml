@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane fx:id="ap" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Button layoutX="207.0" layoutY="104.0" mnemonicParsing="false" onAction="#viewDocuments" prefHeight="27.0" prefWidth="184.0" text="View Documents" />
+      <Button layoutX="207.0" layoutY="188.0" mnemonicParsing="false" onAction="#applyJobs" prefHeight="27.0" prefWidth="184.0" text="Apply Jobs by Id" />
+      <Button layoutX="207.0" layoutY="145.0" mnemonicParsing="false" onAction="#viewStatus" prefHeight="27.0" prefWidth="184.0" text="View Status" />
+      <Button fx:id="viewJobs" layoutX="207.0" layoutY="19.0" mnemonicParsing="false" onAction="#viewJobPostings" prefHeight="27.0" prefWidth="184.0" text="View Jobs" />
+      <Label fx:id="applicantID" layoutX="20.0" layoutY="14.0" prefHeight="27.0" prefWidth="121.0" text="UserId: " />
+      <Button layoutX="208.0" layoutY="230.0" mnemonicParsing="false" onAction="#viewHistory" prefHeight="27.0" prefWidth="184.0" text="View history" />
+      <Button layoutX="207.0" layoutY="355.0" mnemonicParsing="false" onAction="#applicantLogout" prefHeight="27.0" prefWidth="184.0" text="Log out" />
+      <Button layoutX="207.0" layoutY="272.0" mnemonicParsing="false" onAction="#withdraw" prefHeight="27.0" prefWidth="186.0" text="Withdraw from application" textAlignment="RIGHT" />
+      <Button layoutX="207.0" layoutY="313.0" mnemonicParsing="false" onAction="#rateInterviewer" prefHeight="27.0" prefWidth="184.0" text="Rate Interviewer" />
+      <Button layoutX="206.0" layoutY="62.0" mnemonicParsing="false" onAction="#replaceDocuments" prefHeight="27.0" prefWidth="186.0" text="Replace Documents" />
+   </children>
+</AnchorPane>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.collections.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.collections.FXCollections?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+    <children>
+        <TextField fx:id="interviewerNeeded" layoutX="292.0" layoutY="263.0" prefHeight="27.0" prefWidth="150.0" />
+        <ChoiceBox fx:id="interviewerType" layoutX="292.0" layoutY="129.0" prefWidth="150.0">
+            <items>
+                <FXCollections fx:factory="observableArrayList">
+                    <String fx:value="HR assign interviewers" />
+                    <String fx:value="Interviewers self sign-up" />
+                    <String fx:value="Auto selection from Roster" />
+                    <String fx:value="Auto selection from Prioritized" />
+                </FXCollections>
+            </items>
+        </ChoiceBox>
+        <TextField fx:id="interviewDays" layoutX="292.0" layoutY="187.0" prefHeight="27.0" prefWidth="150.0" />
+        <Button fx:id="submitButton" layoutX="263.0" layoutY="325.0" mnemonicParsing="false" onAction="#onSubmit" text="Submit" />
+        <ChoiceBox fx:id="interviewTypeSelection" layoutX="292.0" layoutY="57.0" prefWidth="150.0" />
+      <Text layoutX="65.0" layoutY="75.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Select the interview type: " />
+      <Text layoutX="64.0" layoutY="147.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Select the interviewer type: " />
+      <Text layoutX="66.0" layoutY="205.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Days until this Interview: " />
+      <Text layoutX="65.0" layoutY="281.0" strokeType="OUTSIDE" strokeWidth="0.0" text="How many interviewers needed:" />
+    </children>
+
+</AnchorPane>

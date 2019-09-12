@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <TableView layoutX="51.0" layoutY="74.0" prefHeight="252.0" prefWidth="499.0">
+        <columns>
+          <TableColumn fx:id="statusName" prefWidth="250.0" text="Name" />
+          <TableColumn fx:id="currentStatus" prefWidth="248.0" text="Application Status" />
+        </columns>
+      </TableView>
+      <Button layoutX="22.0" layoutY="14.0" mnemonicParsing="false" onAction="#backButton" text="Back" />
+   </children>
+</AnchorPane>

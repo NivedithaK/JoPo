@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane fx:id="ap" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label fx:id="givenUserId" layoutX="225.0" layoutY="131.0" text="Your userId: " />
+      <Button fx:id="setUpCV" layoutX="369.0" layoutY="187.0" mnemonicParsing="false" onAction="#onClick" text="Select File.." />
+      <Text layoutX="146.0" layoutY="205.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Select Your CV:" />
+      <Text layoutX="146.0" layoutY="269.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Select your Cover Letter: " />
+      <Button fx:id="setUpCl" layoutX="369.0" layoutY="251.0" mnemonicParsing="false" onAction="#onClick" onMouseClicked="#onClick" text="Select File..." />
+      <Text layoutX="244.0" layoutY="90.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Set-up Profile" />
+      <Button layoutX="271.0" layoutY="308.0" mnemonicParsing="false" onAction="#applicantSignup" text="Submit" />
+   </children>
+</AnchorPane>

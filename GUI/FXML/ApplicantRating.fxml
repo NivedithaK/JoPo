@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <TextField fx:id="interviewerId" layoutX="298.0" layoutY="105.0" />
+      <TextField fx:id="jobName" layoutX="298.0" layoutY="199.0" />
+      <ChoiceBox fx:id="ratingSelect" layoutX="298.0" layoutY="286.0" prefHeight="27.0" prefWidth="167.0" />
+      <Text layoutX="54.0" layoutY="123.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Enter the interviewer's Id: " />
+      <Text layoutX="54.0" layoutY="204.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Enter the Job Title whose interview is conducted by this interviewer: " wrappingWidth="218.3857421875" />
+      <Text layoutX="62.0" layoutY="296.0" strokeType="OUTSIDE" strokeWidth="0.0" text="On a scale of 1-10 how would you rate the interviewer:" wrappingWidth="202.66162109375" />
+      <Button layoutX="271.0" layoutY="343.0" mnemonicParsing="false" onAction="#onSubmit" text="Submit" />
+      <Button layoutX="25.0" layoutY="14.0" mnemonicParsing="false" onAction="#backButton" text="Back" />
+   </children>
+</AnchorPane>

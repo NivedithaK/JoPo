@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label fx:id="dateCreated" layoutX="77.0" layoutY="65.0" prefHeight="17.0" prefWidth="203.0" text="Label" />
+      <TableView fx:id="historyView" layoutX="70.0" layoutY="93.0" prefHeight="271.0" prefWidth="475.0">
+        <columns>
+          <TableColumn fx:id="historyName" prefWidth="129.0" text="Name" />
+          <TableColumn fx:id="historyCompany" minWidth="0.0" prefWidth="186.0" text="Company" />
+            <TableColumn fx:id="historyApplied" prefWidth="158.0" text="Date Applied" />
+        </columns>
+      </TableView>
+      <Button layoutX="14.0" layoutY="14.0" mnemonicParsing="false" onAction="#backButton" text="Back" />
+   </children>
+</AnchorPane>

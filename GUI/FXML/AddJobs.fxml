@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <TextField fx:id="addJobsRequirements" layoutX="300.0" layoutY="99.0" />
+      <TextField fx:id="addJobsTitle" layoutX="300.0" layoutY="48.0" prefHeight="27.0" prefWidth="167.0" />
+      <Text layoutX="70.0" layoutY="66.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Job title: " wrappingWidth="96.205078125" />
+      <Text layoutX="70.0" layoutY="117.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Requirements: " wrappingWidth="111.39013671875" />
+      <Button layoutX="301.0" layoutY="297.0" mnemonicParsing="false" onAction="#selectInterviewTypes" prefHeight="27.0" prefWidth="167.0" text="Select Interview Types" />
+      <Button fx:id="addJobsSubmit" layoutX="258.0" layoutY="345.0" mnemonicParsing="false" onAction="#addJobsSubmit" text="Submit" />
+      <DatePicker fx:id="closingDate" layoutX="300.0" layoutY="155.0" prefHeight="27.0" prefWidth="167.0" />
+      <Text layoutX="70.0" layoutY="173.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Closing date: " wrappingWidth="111.39013671875" />
+      <Text layoutX="70.0" layoutY="228.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Tags: " />
+      <TextField fx:id="tagField" layoutX="300.0" layoutY="201.0" />
+      <TextField fx:id="numPosition" layoutX="300.0" layoutY="252.0" />
+      <Text layoutX="70.0" layoutY="270.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Number of positions:" />
+      <Button layoutX="14.0" layoutY="14.0" mnemonicParsing="false" onAction="#backButton" text="Back" />
+   </children>
+</AnchorPane>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <TableView fx:id="tableView" layoutX="11.0" layoutY="82.0" prefHeight="306.0" prefWidth="573.0">
+        <columns>
+            <TableColumn fx:id="postingId" prefWidth="54.0" text="Id" />
+            <TableColumn fx:id="postingCompany" prefWidth="96.0" text="Company" />
+          <TableColumn fx:id="postingName" prefWidth="98.0" text="Name" />
+          <TableColumn fx:id="postingRequirements" prefWidth="172.0" text="Requirements" />
+            <TableColumn fx:id="postingOpenDate" prefWidth="73.0" text="Open date" />
+            <TableColumn fx:id="postingCloseDate" prefWidth="79.0" text="Close date" />
+        </columns>
+      </TableView>
+      <TextField fx:id="filterFieldTag" layoutX="14.0" layoutY="45.0" prefHeight="27.0" prefWidth="122.0" promptText="Search by tag...">
+         <font>
+            <Font size="11.0" />
+         </font></TextField>
+      <TextField fx:id="filterFieldName" layoutX="148.0" layoutY="45.0" prefHeight="27.0" prefWidth="122.0" promptText="Search by name...">
+         <font>
+            <Font size="11.0" />
+         </font>
+      </TextField>
+      <TextField fx:id="filterFieldCompany" layoutX="282.0" layoutY="45.0" prefHeight="27.0" prefWidth="130.0" promptText="Search by company...">
+         <font>
+            <Font size="11.0" />
+         </font>
+      </TextField>
+      <TextField fx:id="filterFieldRequirements" layoutX="424.0" layoutY="45.0" prefHeight="27.0" prefWidth="152.0" promptText="Search by requirements...">
+         <font>
+            <Font size="11.0" />
+         </font>
+      </TextField>
+      <Button layoutX="15.0" layoutY="14.0" mnemonicParsing="false" onAction="#backButton" text="Back" />
+   </children>
+</AnchorPane>
