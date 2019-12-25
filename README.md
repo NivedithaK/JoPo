@@ -38,19 +38,19 @@ To view the unimplemented GUI:
 
 ## <a name="screenshots"></a>Screenshots
 	
-<p align="center"><img src="https://i.imgur.com/vy8IqA7.png" alt="Sign up"
+<p align="center"><img src="https://lh3.googleusercontent.com/Mew4ikRFtOCZdgUSA66Z4Bw_MsxOWanuc9i1Dsj15TWBhDnPv08LipHCemBLXCLe2KMbG5ULIzERsF9mI5zP65g_u-LhGxartVx21q7MkHXd5UBpaRuhjzKZBe1YIg3xBC9jgQEVcDDxw_PSH3lwIB93AirmRyWNEo9nuPF-2zLkfk73IpJ0ZAEVcSnabWFLVofB9LNpLYXKRWu-ofzZuvebYl5amMLnmVd0CwQeyP8uAkCcCglNUmrXHGOEauoBwTejE7qWw1EoFGuus60scTlhLvlZCr69b5v9yuzQLv3wWP1UPu0Ydbp0ok9jgk6L2WqvYqqxt3dKHpQHNUbEfNEQsUGQU2WY8cxSYgTQogNuQ1ZzNwoJ32PllK8FOHi5p7FYwG6ZrZ__ucr2MW4R8KIhVBL1F-AqU-I33GeFjRLO3DSLIOCJOjZl0CYZjBAjjLvcz8zZMwhMzURJ6KdMyX2UQI1cRw2xgyhKTnTeRsWxYKPpyJkTgBRvz8UDD4fEfzX3zW3yI3QFNA63hgUo0tDhIQWHzsr7M1IJdIOQ_Zxd_nwAD_QVNznX0Q4h-40EQOeXlZ7MgKxOg646oJiebKfBzlGU67YSCZC8oPoP_gNbSZUvf2uaXTpjDu-CHOg72q7XzvZk316kRXgDQpVUO09ztyk7ORuHtg-e2n731KmvoUztTcH4XpQ=w1545-h1029-no" alt="Sign up"
 	title="Sign up" width="500" height="300" /></p> 
 	
-<p align="center"><img src="https://i.imgur.com/Uuhs51H.png" alt="Choose interview type"
+<p align="center"><img src="https://lh3.googleusercontent.com/JoZAKYd9ixODRAGBFpQ5YAgZpHQpQO0y6dN9bTsPXZ0F6R-iQ05zpkqbdAAT7Ce-BPS2OL520PMs2SCXqYlZn5LYe4hHua_eVrUxyG5bGvVCnuT2gywVuoHXBlvzuPTfZbrBpRAU4G-XR0RNUj0Mi4BTCfM2iurP5GsBML3IPSvzUr_zw8RE1dg34zBzRAUX_WxVe6gZw07JdUF_UeT7gbUeMYXj6Ii26mZs1CHbg8u2JTN5XRFsVBbsl1sir9suAUK3abb44CgGkU6w7HcJp-Om0r4VnuYa6ViN0Vf2ROn3RdRAltoijtm7VWol2EdeowIeajP4T1GsI0p1qZT_r6gSbqsg6O8gZL3fiKbTETHdDLhDCbyUTFV04pVLhsjC80SDsIRU-5tE8Yro7GoWpFUgkYkmnjxD9lXWYpew9YzG3MHLdEgRZxMxayEEdaSGpyhC9_LoVhdCzfBaC-y_MK3O4n7x9rQYE-q-eq2g5-El8rdtEWS1yezw1tz5LOtNj4xEH8o6PyLAG0Cj3FRFi-7aI2zHFrv1zoTJ-H0jQzNm5JxSIcVorsuH6ONK451U_59Yn3aq2YvdLA94Mm8bl1oyelTAsMCMVtwNhiJneIl2jHmQGKmcRaD5mcuP3F8raNsTy-Ep7Pv0SmUbLPjGQApjfuqXHO36APWZAhNl1469lIlby6JVaio=w1434-h1062-no" alt="Choose interview type"
 	title="Choose interview type" width="500" height="300" /></p> 
 	
-<p align="center"><img src="https://i.imgur.com/OXbXUeF.png" alt="Menu"
+<p align="center"><img src="https://lh3.googleusercontent.com/LmAmNW0Z043CLnbphUeKfx9yof8REiHX1VJe60m_EeOlSdHhvTg9KHb3v5kq2hHs4LKUGe80PQICcZsm6AFHP8nNNBzy2uIkUuM-IcQzYjMNsywm6vqcA6zUi09CV39hYrXfyap4IWA0AjbcW8-T6bz1XelRcLpZPdS1os0BSdcqwwcp_xb2QJQA5iab7PRQSwA_0VLZldbYueMMOeHIr7MnekFrNpyd8h3tgfnf2opn7wHBD10IsXBvAF9QIzgcfgQ_8SkUmMsFm06dUG-N2zzaI51UTxN4M9nZDe629_FxvJZRCpDGzwNVQXvpJwR7YYxA0EtB8_vdySzeRNhWaD49CQdg6zXbSTTNjj9po7osCHXh3rVyhMlyPNteX2RFPr_MMXzCweKLYRFpqzvv6lw16NoDDIiJ-h6ZRdA1gAzA63bm1jEvDaXMP-NaFSZniqlC555ISKZX-tJs3Xa8ya39sQUdVILYdkz3HZzvkqPxGb3VQph3qshRW4nucyohjVdHOxw-i9FRgi9ra9MHmlH3SLinDBWUy6aSVs3eCJjm7yZubFs2j9lBlGKIfV2X8IfRvVsK-KIA1Drgd5WFZ1dfaXUQdjKQiuqWGRYa9iwMXeouWCOhxoJwg-Oi8A8W6u81HmWCuJmiexvLTAX9GrxtUwrOZJv0M9807v21V5hiReTwTT_wLBw=w1392-h1010-no" alt="Menu"
 	title="Menu" width="500" height="300" /></p> 
   	
-<p align="center"><img src="https://i.imgur.com/v3RPFIe.png" alt="Add job"
+<p align="center"><img src="https://lh3.googleusercontent.com/e5ziaTU7Gr5wdxXPTP9F860IuAMzF-Mro9YvWwEED0psde_k8lK6Wgie4SiK5AfmEBMOERyVwKRpJUBqlZC9nPL5EZgBXPcOzSUnLFlPSlYKkUqUyQvpsYTkC4YDowrh2e6QSQxqDZFt5Svagqw3Xq_W_wIGqYilvJ37hLFaMvPmuMJnwaQ_-U_Fnsigzfv40g7Q_admHJJLZx5xQgB95DqPJxudDziXcIXlDxMHsZkYRRGLwF2mv96CnlRUblLswsE8Fci1eiwYp1iNM3-knNoFAZSTOfZltkU5F7YHutSKikmpRKt1sOEpBGnZuNdlj3UfRjbFmMlcnLxa5p8B9EUgP8st9YbYp8oy38UfnYTK5v0_MgBpfMFzkzJQwvWQgtyRNzmXCdXHbS4K4BvgBOplbxIIMsAQfXPLXFdJhbRUtmnol_t2LlfIhuhsbCjIIM2Cjy75W3Xz3WZnp7K-TmNXsHGE7il9Wlq7_JYxUYNqjKFWxZCTG2tzDe8TJNMMLMW6SPbPxjh4tI0oU7EnzqPNNgUspx3hHHfgEKZ8dMEB-lVCGneopOSmjpNy4K26Ckwf1hk25nZNFkATLRQ47J40JJ8wqP9YvvO5yvFxkn5dvHpCA3J6XgJreIAD-h1rEc2oACABgcDGPDSyes-LJ7C_m1B_eMh4Q3npVU3QsK4Uk3poj7skhnQ=w1450-h1032-no" alt="Add job"
 	title="Add job" width="500" height="300" /></p> 
   
-  <p align="center"><img src="https://i.imgur.com/uzRuJgi.png" alt="Interview type"
+  <p align="center"><img src="https://lh3.googleusercontent.com/a33QY2q8nOzPnyUjCsK5SKTmaSO0LsqhxjZGNOSRrFcNoBIsWrE8eHt7uhQLp3l0NkeIzb3S7-vq46oz-O1J6orQrDYU07wShdT72q1aLVFoss0YgWaC3aBzvJt4iDWzJqSJZifalWBhfV9gsZhgOh6TNprc-m89PUzBoabE66hqlrUgWR-TQse0mZsHQs3t31Q9gcTp2APXKl4OhBJurfe74qm0Jy7oTSrizkCo73R7tk5g_zpJPUAD5VM_sTp-iwsJRbRM5dduTYYGns-_lSn_pQMY46APvXq4GYDYSzYjGLskjw6xBJz0FwDxgmZNCKp3W8TzDUUyBSC5tMI9rWK0ZwCfiQtt9SC0JT9AWaDH-bN1MlJnIK_u61krRJGlbBkTqlxd4apxWHBB0nueQ3bJ426YD37lHv0gDLBiHuXYAbmSJXeyydugGquohqQV6vKkl6UKKC-VMv4HVDqv_SSYemsJHoRK8nXH8mSqRp4nfVJCfLSZGAQ3xVCZuE0xnqmIa0FVivDb1X-uhWVRHErK3KpM8_-IX2rEHP8FrkJDxGpOtxrhH2KThd_I5vL0niXyodnH-UGJDK7NB0dxMKbQQE1Kro_jEWxtF9buoGU6zyJ6HwRxCf8XAc_Bse0jZU6F6NIRIPfyKMiuYvx6Iw43QUdwZV1W2kzgclcpYwONE5Qjh6JKG9E=w1424-h1070-no" alt="Interview type"
 	title="Interview type" width="500" height="300" /></p> 
 	
 [Back to top](#top)
